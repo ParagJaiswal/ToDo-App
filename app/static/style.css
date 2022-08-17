@@ -1,0 +1,10 @@
+input[type=checkbox]:checked + label.strikethrough{
+  text-decoration: line-through;
+}
+
+.delete:hover{
+  cursor: pointer;
+  background-color: orangered;
+  border-radius: 5px;
+
+}
